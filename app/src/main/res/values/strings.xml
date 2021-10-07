@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Negara Berdaulat</string>
+    <string-array name="country">
+        <item>Amerika Serikat</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Belanda</item>
+        <item>Belgia</item>
+        <item>Brazil</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Jepang</item>
+        <item>Jerman</item>
+
+    </string-array>
+</resources>
